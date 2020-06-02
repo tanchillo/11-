@@ -1,0 +1,21 @@
+.Card {
+    height: 300px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.active {
+    background-color: green;
+}
+.disabled {
+    background-color: red;
+}
+.btn-dark {
+    margin-top: 50px;
+    padding: 10px 30px;
+}
+/*.Card h3 {*/
+/*    text-align: center;*/
+/*}*/
